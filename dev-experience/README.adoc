@@ -2,9 +2,18 @@
 
 == Goals
 
-To deploy and configure an application, leverage the platform for monitoring & management of the microservices, and automate a continuous delivery pipeline.
+Learn how Pivotal Cloud Foundry streamlines development and operational tasks for Developers and Operators.
+Subgoals include:
+1. Walk through the developer experience in multiple languages
+2. Walk through binding marketplace services and custom services
+3. Discuss Cloud Native & 12-factor apps
+4. Review the Architecture of Pivotal Cloud Foundry
 
 == Exercises
+1. Install CLI and Test Logging in
+2. Push the Helloworld apps
+3. Complete the Cities application
+4. Push and Bind a JEE app
 
 === Console
 
@@ -12,7 +21,7 @@ Before we do anything lets take a look at the developer console and confirm inst
 
 * link:http://docs.pivotal.io/pivotalcf/console/dev-console.html[User Console Docs]
 
-* login to the console at https://console.run.pcf.jkruckcloud.com
+* login to the console at https://apps.system.mgpcf.net
 * I'm using self signed certs, please proceed through the warnings in your browser.
 * If you're using chrome, make sure it's a recent.
 * Login with your work email address (all lowercase) and a password of `password`
@@ -24,7 +33,7 @@ Now that we have the CLI, lets push some basic applications and learn to navigat
 
 * Login to Cloud Foundry
 
-`cf login -a https://api.run.pcf.jkruckcloud.com -u <your email> -p password -o <your org> -s development --skip-ssl-validation`
+`cf login -a https://api.system.mgpcf.net -u <your email> -p password -o <your org> -s development --skip-ssl-validation`
 
 .. Note if you had SSL errors above, make sure to add `--skip-ssl-validation` to the command.
 
