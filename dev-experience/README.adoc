@@ -3,7 +3,9 @@
 == Goals
 
 Learn how Pivotal Cloud Foundry streamlines development and operational tasks for Developers and Operators.
+
 Subgoals include:
+
 1. Walk through the developer experience in multiple languages
 2. Walk through binding marketplace services and custom services
 3. Discuss Cloud Native & 12-factor apps
