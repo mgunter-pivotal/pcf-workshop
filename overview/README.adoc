@@ -23,4 +23,4 @@ To understand:
 
 * Resources
 ** link:http://docs.pivotal.io/pivotalcf/getstarted/pcf-docs.html[Pivotal Cloud Foundry Docs]
-** Josh (jkruck@pivotal.io), Don (daddington@pivotal.io), Matt (mgunter@pivotal.io)
+** Matt (mgunter@pivotal.io), James Williams(jwilliams@pivotal.io), James Whittington(jwhittington@pivotal.io)
