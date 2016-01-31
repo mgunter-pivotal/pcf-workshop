@@ -10,7 +10,7 @@ This section provides the basic information and understanding required to unders
 
 To understand:
 
-* link:PCF_Basics_and_Arch[Intro to Cloud Foundry] _(link:PCF_Basics_and_Arch.pptx)_
+* link:PCF_Basics_and_Arch[PCF_Basics_and_Arch] _(link:PCF_Basics_and_Arch.pptx)_
 ** 3rd platform and what market forces have lead us here
 ** Platform as a Service basics
 ** The Cloud Foundry Foundation
