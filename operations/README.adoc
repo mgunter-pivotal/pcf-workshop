@@ -3,8 +3,11 @@
 During this workshop your instructors (Matt) have assumed the role of Platform Operator. It's likely that at some point during the class we'll hand over the keys and have you operate the platform if you desire. You can assume that what you're being given is similar to what a new project team would receive upon requesting a fresh environment from which ever group you would ask for such things.
 
 We will cover the following topics:
+
 . link:Technical_Overview.key[Technical Overview of CF Internals and four levels of HA]
+
 . link:PCF_Services_for_Ops.pptx[Services for Ops]
+
 . Demo of Ops Manager Resources and IaaS view of PCF
 
 
