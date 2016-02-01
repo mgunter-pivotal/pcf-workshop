@@ -10,7 +10,7 @@ This section provides the basic information and understanding required to unders
 
 To understand:
 
-* link:PCF_Basics_and_Arch[PCF_Basics_and_Arch] _(link:PCF_Basics_and_Arch.pptx)_
+* link:https://github.com/mgunter-pivotal/pcf-workshop/blob/master/overview/PCF_Basics_and_Arch.pptx[PCF_Basics_and_Arch]
 ** 3rd platform and what market forces have lead us here
 ** Platform as a Service basics
 ** The Cloud Foundry Foundation
