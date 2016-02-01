@@ -13,7 +13,7 @@
 
 . link:operations/README.adoc[What the Platform Operator has setup for you]
     .. link:operations/orgs-spaces-quotas-users.adoc[Orgs, Spaces, Quotas, & Users]
-    .. link:operations/app-security-groups.adoc[Application Security Groups (information only)]
+    .. link:operations/app-security-groups.adoc[Application Security Groups ( information only )]
 
 . link:dev-experience/README.adoc[The Developer Experience]
     .. link:dev-experience/sdlc-basics.adoc[SDLC Basics with PCF]
