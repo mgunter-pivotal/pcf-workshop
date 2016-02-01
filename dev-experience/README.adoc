@@ -69,9 +69,10 @@ Read link:https://github.com/krujos/cf-hello-world-sample-apps/blob/master/READM
 *MAKE SURE YOU CD INTO THE INDIVIDUAL APP DIRECTORIES*
 
 == More talking
+* Lets talk about PCF and some of the features and capabilities in detail.
+** link:https://github.com/mgunter-pivotal/pcf-workshop/blob/master/dev-experience/PCF_Apps_Fundamentals.pptx[Running  Apps On PCF]
 
-* Review the Keynote on link:Cloud_Ready_Apps.key[Cloud_Ready_Apps Ready Apps]
-** This should drive home how to build applications that will run well on PCF. As we'll cover PCF can work with lots of applications, but cloud native is the best fit.
+
 
 == More Exercises
 
@@ -83,15 +84,6 @@ Read link:https://github.com/krujos/cf-hello-world-sample-apps/blob/master/READM
 
 * Take a quick look at the link:cities/README.adoc[architecture] of the cities application.
 
-=== Applications on Pivotal CF
-
-* Lets talk about about cloud ready apps and what cloud native means.
-** link:https://github.com/mgunter-pivotal/pcf-workshop/blob/master/dev-experience/Cloud_Ready_Apps.key[Cloud Ready Apps]
-
-* Review the documentation on link:http://docs.pivotal.io/pivotalcf/devguide/deploy-apps/prepare-to-deploy.html[Considerations for Designing and Running an Application in the Cloud]
-
-* Lets talk about about cloud ready apps and what cloud native means.
-** link:https://github.com/mgunter-pivotal/pcf-workshop/blob/master/dev-experience/PCF_Apps_Fundamentals.pptx[Running  Apps On PCF]
 
 
 * Review the documentation on link:http://docs.pivotal.io/pivotalcf/devguide/deploy-apps/streaming-logs.html#writing[Writing to logs]
