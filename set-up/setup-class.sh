@@ -1,4 +1,4 @@
-#!env bash
+#!/usr/local/bin/bash
 # 
 # This script requires bash 4! Upgrade!
 #
@@ -11,7 +11,7 @@
 #
 # Before running this script make to set the default behavior of the foundation to be all_closed
 # in terms of security groups
-
+echo $BASH_VERSION
 cf create-security-group development-security-group ./development-security-group.json
 
 declare -A orgs
