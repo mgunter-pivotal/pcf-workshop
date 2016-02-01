@@ -24,6 +24,12 @@
 
 . link:operations/README.adoc[The Operations Experience]
 
+   .. link:Technical_Overview.key[Technical Overview of CF Internals and four levels of HA]
+
+   .. link:PCF_Services_for_Ops.pptx[Services for Ops]
+
+   .. Demo of Ops Manager Resources and IaaS view of PCF
+
 . link:buildpack/README.adoc[Customizing Build Packs]
 . Security Preso / Whiteboard
 
