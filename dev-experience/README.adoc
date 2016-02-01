@@ -86,9 +86,13 @@ Read link:https://github.com/krujos/cf-hello-world-sample-apps/blob/master/READM
 === Applications on Pivotal CF
 
 * Lets talk about about cloud ready apps and what cloud native means.
-** link:https://github.com/krujos/pcf-workshop/blob/pro/dev-experience/Cloud_Ready_Apps.key[Cloud Ready Apps]
+** link:https://github.com/mgunter-pivotal/pcf-workshop/blob/pro/dev-experience/Cloud_Ready_Apps.key[Cloud Ready Apps]
 
 * Review the documentation on link:http://docs.pivotal.io/pivotalcf/devguide/deploy-apps/prepare-to-deploy.html[Considerations for Designing and Running an Application in the Cloud]
+
+* Lets talk about about cloud ready apps and what cloud native means.
+** link:https://github.com/mgunter-pivotal/pcf-workshop/blob/pro/dev-experience/PCF_Apps_Fundamentals.pptx[Running  Apps On PCF]
+
 
 * Review the documentation on link:http://docs.pivotal.io/pivotalcf/devguide/deploy-apps/streaming-logs.html#writing[Writing to logs]
 
@@ -105,7 +109,7 @@ The following exercises should be completed for `cities-service`.
 
 * link:user-console.adoc[User Console]
 
-We will complete the following exercises on PWS because of THD network restrictions.
+We will complete the following optional exercises depending on network connectivity and time constraints.
 
 * link:app-log-drain.adoc[Application Log Draining]
 
