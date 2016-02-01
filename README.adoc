@@ -22,7 +22,7 @@
     .. link:dev-experience/app-autoscaling.adoc[Auto Scaling ( optional )]
     .. link:dev-experience/apm.adoc[App Performance Monitoring ( optional )]
 
-. link:service-broker/README.adoc[Deploying a Custom Service Broker]
+. link:operations/README.adoc[The Operations Experience]
 
 . link:buildpack/README.adoc[Customizing Build Packs]
 . Security Preso / Whiteboard
