@@ -12,15 +12,15 @@
 . link:overview/README.adoc[Pivotal CF Overview]
 
 . link:operations/README.adoc[What the Platform Operator has setup for you]
-    .. link:operations/app-security-groups.adoc[Application Security Groups]
     .. link:operations/orgs-spaces-quotas-users.adoc[Orgs, Spaces, Quotas, & Users]
+    .. link:operations/app-security-groups.adoc[Application Security Groups (information only)]
 
 . link:dev-experience/README.adoc[The Developer Experience]
     .. link:dev-experience/sdlc-basics.adoc[SDLC Basics with PCF]
     .. link:dev-experience/user-console.adoc[Apps Manager]
-    .. link:dev-experience/app-log-drain.adoc[Managing Logs]
-    .. link:dev-experience/app-autoscaling.adoc[Auto Scaling]
-    .. link:dev-experience/apm.adoc[App Performance Monitoring]
+    .. link:dev-experience/app-log-drain.adoc[Managing Logs ( optional )]
+    .. link:dev-experience/app-autoscaling.adoc[Auto Scaling ( optional )]
+    .. link:dev-experience/apm.adoc[App Performance Monitoring ( optional )]
 
 . link:service-broker/README.adoc[Deploying a Custom Service Broker]
 
