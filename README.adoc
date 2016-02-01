@@ -7,12 +7,20 @@
 == Agenda
 
 . link:kick-off/README.adoc[Kick Off]
+    . link:student-setup.adoc[Student Set Up].
 
 . link:overview/README.adoc[Pivotal CF Overview]
 
 . link:operations/README.adoc[What the Platform Operator has setup for you]
+    . link:operations/app-security-groups.adoc[Application Security Groups]
+    . link:operations/orgs-spaces-quotas-users.adoc[Orgs, Spaces, Quotas, & Users]
 
 . link:dev-experience/README.adoc[The Developer Experience]
+    . link:dev-experience/sdlc-basics.adoc[SDLC Basics with PCF]
+    . link:dev-experience/user-console.adoc[Apps Manager]
+    . link:dev-experience/app-log-drain.adoc[Managing Logs]
+    . link:dev-experience/app-autoscaling.adoc[Auto Scaling]
+    . link:dev-experience/apm.adoc[App Performance Monitoring]
 
 . link:service-broker/README.adoc[Deploying a Custom Service Broker]
 
