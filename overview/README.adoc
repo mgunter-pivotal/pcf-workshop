@@ -11,8 +11,8 @@ This section provides the basic information and understanding required to unders
 To understand:
 === Applications on Pivotal CF
 
-* Lets talk about about cloud ready apps and what cloud native means.
-** link:https://github.com/mgunter-pivotal/pcf-workshop/blob/master/dev-experience/Cloud_Ready_Apps.key[Cloud Ready Apps]
+* Lets talk about about cloud native apps and what cloud native means.
+** link:https://github.com/mgunter-pivotal/pcf-workshop/blob/master/dev-experience/Cloud_Native_Apps.key[Cloud Native Apps]
 
 * Review the documentation on link:http://docs.pivotal.io/pivotalcf/devguide/deploy-apps/prepare-to-deploy.html[Considerations for Designing and Running an Application in the Cloud]
 
